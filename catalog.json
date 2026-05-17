@@ -14,7 +14,7 @@
       "passagesCount": 2125,
       "sizeMb": 2.5,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat.json.gz",
-      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat_embeddings.bin"
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/v1.0/isteftaat_embeddings.bin"
     }
   ]
 }
