@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "books": [
+    {
+      "key": "isteftaat",
+      "title": "استفتاءات السيد القائد",
+      "titleEn": "Isteftaat Al-Sayyid Al-Ka'ed",
+      "author": "السيد علي الحسيني الخامنئي",
+      "authorEn": "Sayyid Ali al-Husayni al-Khamenei",
+      "category": "فقه",
+      "categoryEn": "Fiqh",
+      "description": "مجموعة استفتاءات وفتاوى آية الله العظمى السيد علي الخامنئي.",
+      "descriptionEn": "Complete fatwas of Grand Ayatollah Sayyid Ali al-Khamenei.",
+      "passagesCount": 2125,
+      "sizeMb": 2.5,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat.json.gz",
+      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat_embeddings.bin"
+    }
+  ]
+}
