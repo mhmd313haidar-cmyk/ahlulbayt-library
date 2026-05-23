@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 4,
   "books": [
     {
       "key": "isteftaat",
@@ -15,18 +15,18 @@
       "sizeMb": 2.5,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat.json.gz",
       "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/v1.0/isteftaat_embeddings.bin"
-    }
+    },
     {
-  "key": "rijal_najashi",
-  "title": "رجال النجاشي",
-  "titleEn": "Rijal al-Najashi",
-  "author": "أحمد بن علي النجاشي",
-  "category": "رجال",
-  "isRijal": true,
-  "narratorsCount": 1252,
-  "sizeMb": 84.7,
-  "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json"
- "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
+      "key": "rijal_najashi",
+      "title": "رجال النجاشي",
+      "titleEn": "Rijal al-Najashi",
+      "author": "أحمد بن علي النجاشي",
+      "category": "رجال",
+      "isRijal": true,
+      "narratorsCount": 1252,
+      "sizeMb": 84.7,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json",
+      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
     }
   ]
 }
