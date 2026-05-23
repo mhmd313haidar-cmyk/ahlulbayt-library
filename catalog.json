@@ -16,17 +16,22 @@
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat.json.gz",
       "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/v1.0/isteftaat_embeddings.bin"
     },
-    {
-      "key": "rijal_najashi",
-      "title": "رجال النجاشي",
-      "titleEn": "Rijal al-Najashi",
-      "author": "أحمد بن علي النجاشي",
-      "category": "رجال",
-      "isRijal": true,
-      "narratorsCount": 1252,
-      "sizeMb": 84.7,
-      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json",
-      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
-    }
+{
+  "key": "rijal_najashi",
+  "title": "رجال النجاشي",
+  "titleEn": "Rijal al-Najashi",
+  "author": "أحمد بن علي النجاشي",
+  "authorEn": "Ahmad ibn Ali al-Najashi",
+  "category": "رجال",
+  "categoryEn": "Rijal",
+  "description": "أهم كتب الرجال الشيعية في الجرح والتعديل.",
+  "descriptionEn": "The most authoritative Shia rijal work on narrator grading.",
+  "isRijal": true,
+  "narratorsCount": 1252,
+  "passagesCount": 1252,
+  "sizeMb": 1.3,
+  "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json",
+  "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
+}
   ]
 }
