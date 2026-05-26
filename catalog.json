@@ -1,37 +1,20 @@
 {
   "version": 4,
   "books": [
-    {
-      "key": "isteftaat",
-      "title": "استفتاءات السيد القائد",
-      "titleEn": "Isteftaat Al-Sayyid Al-Ka'ed",
-      "author": "السيد علي الحسيني الخامنئي",
-      "authorEn": "Sayyid Ali al-Husayni al-Khamenei",
-      "category": "فقه",
-      "categoryEn": "Fiqh",
-      "description": "مجموعة استفتاءات وفتاوى آية الله العظمى السيد علي الخامنئي.",
-      "descriptionEn": "Complete fatwas of Grand Ayatollah Sayyid Ali al-Khamenei.",
-      "passagesCount": 2125,
-      "sizeMb": 2.5,
-      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/isteftaat.json.gz",
-      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/v1.0/isteftaat_embeddings.bin"
-    },
-{
-  "key": "rijal_najashi",
-  "title": "رجال النجاشي",
-  "titleEn": "Rijal al-Najashi",
-  "author": "أحمد بن علي النجاشي",
-  "authorEn": "Ahmad ibn Ali al-Najashi",
-  "category": "رجال",
-  "categoryEn": "Rijal",
-  "description": "أهم كتب الرجال الشيعية في الجرح والتعديل.",
-  "descriptionEn": "The most authoritative Shia rijal work on narrator grading.",
-  "isRijal": true,
-  "narratorsCount": 1252,
-  "passagesCount": 1252,
-  "sizeMb": 1.3,
-  "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json",
-  "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
-}
+  {
+      "key": "alkafi_vol1",
+      "title": "الكافي — المجلد الأول",
+      "titleEn": "Al-Kafi — Volume 1",
+      "author": "الشيخ محمد بن يعقوب الكليني",
+      "authorEn": "Sheikh Muhammad ibn Yaqub al-Kulayni",
+      "category": "حديث",
+      "categoryEn": "Hadith",
+      "description": "الكافي هو أشمل كتب الحديث الشيعية، ويضم اصول الكافي في العقيدة والأخلاق، وفروع الكافي في الفقه والأحكام، وروضة الكافي في الخطب والرسائل والأحاديث المتنوعة. جمعه الشيخ الكليني في ثمانية مجلدات.",
+      "descriptionEn": "Al-Kafi is the most comprehensive Shia hadith collection, compiled by Sheikh al-Kulayni in eight volumes. It encompasses Usul al-Kafi (theology and ethics), Furu al-Kafi (Islamic law), and Rawdat al-Kafi (sermons, letters, and miscellaneous traditions from the Imams).",
+      "passagesCount": 1457,
+      "sizeMb": 38.2,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_vol1.json",
+      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_vol1_embeddings.bin"
+    }
   ]
 }
