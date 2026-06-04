@@ -14,7 +14,7 @@
       "passagesCount": 14269,
       "sizeMb": 42.2,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi.json.gz",
-      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_embeddings.bin"
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/alkafi_embeddings.bin"
     }, 
     {
   "key": "rijal_najashi",
