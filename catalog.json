@@ -1,21 +1,22 @@
 {
   "version": 4,
-  "books": [
-  {
-      "key": "alkafi_vol1",
-      "title": "الكافي — المجلد الأول",
-      "titleEn": "Al-Kafi — Volume 1",
+ "books": [
+    {
+      "key": "alkafi",
+      "title": "الكافي — الأجزاء الثمانية",
+      "titleEn": "Al-Kafi — All 8 Volumes",
       "author": "الشيخ محمد بن يعقوب الكليني",
       "authorEn": "Sheikh Muhammad ibn Yaqub al-Kulayni",
       "category": "حديث",
       "categoryEn": "Hadith",
       "description": "الكافي هو أشمل كتب الحديث الشيعية، ويضم اصول الكافي في العقيدة والأخلاق، وفروع الكافي في الفقه والأحكام، وروضة الكافي في الخطب والرسائل والأحاديث المتنوعة. جمعه الشيخ الكليني في ثمانية مجلدات.",
       "descriptionEn": "Al-Kafi is the most comprehensive Shia hadith collection, compiled by Sheikh al-Kulayni in eight volumes. It encompasses Usul al-Kafi (theology and ethics), Furu al-Kafi (Islamic law), and Rawdat al-Kafi (sermons, letters, and miscellaneous traditions from the Imams).",
-      "passagesCount": 1457,
-      "sizeMb": 10.3,
-      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_vol1.json",
-      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_vol1_embeddings.bin"
-    }, 
+      "passagesCount": 14269,
+      "sizeMb": 42.2,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi.json",
+      "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi_embeddings.bin"
+    }
+  ], 
     {
   "key": "rijal_najashi",
   "title": "رجال النجاشي",
