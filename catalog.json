@@ -30,8 +30,7 @@
   "narratorsCount": 1251,
   "passagesCount": 1251,
   "sizeMb": 1.4,
-  "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json",
-  "embeddingsUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi_embeddings.bin"
-}
+  "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json"
+  }
   ]
 }
