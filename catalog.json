@@ -15,7 +15,22 @@
       "sizeMb": 42.2,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/alkafi.json.gz",
       "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/alkafi_gemini_embeddings.bin"
-    }, 
+    },
+    {
+      "key": "faqih",
+      "title": "من لا يحضره الفقيه",
+      "titleEn": "Man La Yahduruhu al-Faqih",
+      "author": "الشيخ الصدوق محمد بن علي بن الحسين بن بابويه القمي",
+      "authorEn": "Al-Shaykh al-Saduq (Muhammad ibn Ali ibn Babawayh al-Qummi)",
+      "category": "حديث",
+      "categoryEn": "Hadith",
+      "description": "أحد الكتب الأربعة في الحديث عند الشيعة الإمامية، للشيخ الصدوق (ت 381هـ). يجمع أحاديث الأحكام الفقهية بأسانيدها، مع فتاوى المؤلف.",
+      "descriptionEn": "One of the Four Books of Shia hadith, by al-Shaykh al-Saduq (d. 381 AH). Hadiths of jurisprudence with their chains, plus the author's own rulings.",
+      "passagesCount": 6864,
+      "sizeMb": 8.53,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/faqih.json",
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/tag/books-v1/faqih_embeddings.bin"
+    },
   {
       "key": "rijal_ibn_ghadairi",
       "title": "رجال ابن الغضائري",
