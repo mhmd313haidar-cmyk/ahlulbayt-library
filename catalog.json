@@ -29,7 +29,7 @@
       "passagesCount": 6864,
       "sizeMb": 8.53,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/faqih.json",
-      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/tag/books-v1/faqih_embeddings.bin"
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/faqih_embeddings.bin"
     },
   {
       "key": "rijal_ibn_ghadairi",
