@@ -1,6 +1,6 @@
 {
-  "version": 5,
- "books": [
+  "version": 6,
+  "books": [
     {
       "key": "alkafi",
       "title": "الكافي — الأجزاء الثمانية",
@@ -31,7 +31,7 @@
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/faqih.json",
       "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/faqih_embeddings.bin"
     },
-  {
+    {
       "key": "rijal_ibn_ghadairi",
       "title": "رجال ابن الغضائري",
       "titleEn": "Rijal Ibn al-Ghada'iri",
@@ -78,6 +78,21 @@
       "passagesCount": 1251,
       "sizeMb": 1.38,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json"
+    },
+    {
+      "key": "tafsir_almizan",
+      "title": "تفسير الميزان",
+      "titleEn": "Tafsir al-Mizan",
+      "author": "العلامة السيد محمد حسين الطباطبائي",
+      "authorEn": "Allamah Sayyid Muhammad Husayn al-Tabataba'i",
+      "category": "تفسير",
+      "categoryEn": "Tafsir",
+      "description": "تفسير الميزان للعلامة السيد محمد حسين الطباطبائي (ت 1402هـ)، من أوسع تفاسير القرآن وأعمقها، يعتمد منهج تفسير القرآن بالقرآن. يغطي القرآن كاملاً في 594 بحثاً تفسيرياً موافقة للمطبوع.",
+      "descriptionEn": "Tafsir al-Mizan by Allamah al-Tabataba'i (d. 1402 AH), one of the most comprehensive and profound Quranic exegeses, using the method of interpreting the Quran by the Quran. Covers the entire Quran in 594 commentary units.",
+      "passagesCount": 594,
+      "sizeMb": 23.72,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/tafsir_almizan.json.gz",
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/tafsir_almizan_embeddings.bin"
     }
   ]
 }
