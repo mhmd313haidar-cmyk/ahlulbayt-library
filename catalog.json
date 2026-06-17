@@ -79,6 +79,21 @@
       "sizeMb": 1.38,
       "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/rijal_najashi.json"
     },
+     {
+      "key": "amali_mufid",
+      "title": "الأمالي للشيخ المفيد",
+      "titleEn": "Al-Amali (al-Mufid)",
+      "author": "الشيخ المفيد محمد بن محمد بن النعمان العكبري البغدادي",
+      "authorEn": "Al-Shaykh al-Mufid",
+      "category": "حديث",
+      "categoryEn": "Hadith",
+      "description": "أمالي الشيخ المفيد (ت 413هـ): مجالس أملاها على تلامذته في اثنين وأربعين مجلساً، تجمع أحاديث في العقيدة والفضائل والتاريخ والأخلاق بأسانيدها.",
+      "descriptionEn": "The dictations (amali) of al-Shaykh al-Mufid (d. 413 AH), delivered in 42 assemblies — hadiths on belief, virtues, history, and ethics, with their chains.",
+      "passagesCount": 387,
+      "sizeMb": 1.13,
+      "downloadUrl": "https://raw.githubusercontent.com/mhmd313haidar-cmyk/ahlulbayt-library/main/books/amali_mufid.json",
+      "embeddingsUrl": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library/releases/download/books-v1/amali_mufid_embeddings.bin"
+    },
     {
       "key": "tafsir_almizan",
       "title": "تفسير الميزان",
